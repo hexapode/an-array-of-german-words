@@ -1,13 +1,13 @@
 {
-  "name": "an-array-of-portuguese-words",
+  "name": "an-array-of-german-words",
   "version": "1.2.0",
-  "description": "An array of ~180,000 Portuguese words. Works in node and browsers.",
+  "description": "An array of ~115,000 German words. Works in node and browsers.",
   "main": "words.json",
   "bin": {
-    "palavra": "./cli.js",
-    "an-array-of-portuguese-words": "./cli.js"
+    "wort": "./cli.js",
+    "an-array-of-german-words": "./cli.js"
   },
-  "repository": "https://github.com/hexapode/an-array-of-portuguese-words",
+  "repository": "https://github.com/hexapode/an-array-of-german-words",
   "author": "hexapode",
   "license": "MIT"
 }

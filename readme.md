@@ -1,6 +1,6 @@
 # an-array-of-german-words
 
-An array of ~180,00 German words derived from internet. Works with node and browserify.
+An array of ~180,00 German words derived from internet and sort by popularity. Works with node and browserify.
 
 Inspired / Fork from https://github.com/zeke/an-array-of-english-words
 
